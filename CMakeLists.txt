@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(package_name)
+project(ros_servo_publisher)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
